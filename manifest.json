@@ -21,5 +21,11 @@
       "purpose": "any maskable"
     }
   ],
-  "id": "DM"
+  "id": "DM",
+  "dir": "auto",
+  "lang": "en",
+  "scope": "PWA Scope",
+  "categories": [
+    "developer"
+  ]
 }
