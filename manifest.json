@@ -1,11 +1,11 @@
 {
-  "name": "TelexWA",
-  "short_name": "TelexWA",
+  "name": "DrexMini",
+  "short_name": "Drex",
   "description": "Bot Servers — WhatsApp Session Manager",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#06080d",
-  "theme_color": "#06080d",
+  "background_color": "#7b2c2c",
+  "theme_color": "#5e1c1c",
   "orientation": "portrait",
   "icons": [
     {
@@ -20,5 +20,6 @@
       "type": "image/jpeg",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "DM"
 }
